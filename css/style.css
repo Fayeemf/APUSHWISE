@@ -62,7 +62,7 @@ h1, h4 {
 }
 
 .item-in {
-  border: #abb 1px; border-style:solid;
+  border: rgb(10, 8, 6) 1px; border-style:solid;
 }
 
 .item .item-in:hover:before {
@@ -74,7 +74,7 @@ h1, h4 {
   bottom: 0px;
   height: 2px;
   width: 0%;
-  background: #333333;
+  background: rgb(255, 0, 0);
   right: 0px;
   -webkit-transition: width 0.4s;
   transition: width 0.4s;
@@ -93,7 +93,7 @@ h1, h4 {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   text-transform: uppercase;
-  color: #666666;
+  color: #aa2424;
   margin-top: 10px;
 }
 .item a i {
