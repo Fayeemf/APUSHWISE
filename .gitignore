@@ -1,5 +1,4 @@
-_site/*
-.sass-cache/*
-css/mincss/*
-node_modules/*
-Gemfile.lock
+*.pyc
+.vscode/*
+.vscode
+*.secret
