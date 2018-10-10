@@ -48,3 +48,11 @@ img {
 a {
     color: #46adad;
 }
+h20 {
+    line-height: 30px; font-family: 'Montserrat';
+    color: plum; font-weight: 500; font-size: 18px;
+}
+h21 {
+    line-height: 30px; font-family: 'Montserrat';
+    color: rosybrown; font-weight: 600; font-size: 15px;
+}
